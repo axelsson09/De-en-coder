@@ -2,4 +2,4 @@
 2 in port to de/en-coder
 
 format:
-1
+first number is if it is Axelsson09 special carekter
