@@ -2,4 +2,4 @@
 feel free to make more and edit languages
 
 
-language's instruktions can be located in "folder"
+instruktions to make a language can be located in "folder"
